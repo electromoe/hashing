@@ -21,6 +21,10 @@
              MD5        |   128bits
              SHA-1      |   160bits
              SHA-256    |   256bits
+             
+             
+             
+             
 4.SHA-1/SHA-256
       1. SHA-1 data 8 hashes
 {data:HELLO
@@ -31,9 +35,15 @@ considered one of the best types of hash
 5.ENCRYPT/DECRYPT
 THE PROCESS OF ENCRYPTION AND DECRYPTION
 EXAMPLE:
+
+
+
          send-----(text)----->ENCRYPT------(cliphertext)---->decrypt-------->receiver(my pc)
  (send text to receiver for encrypting)           (receiver)
+ 
+ 
 6.TYPE OF SYMMETRIC(symmetric Key)
+
   .BLOW FISH
   .TWO FISH
   .DED.3DES
