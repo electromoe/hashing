@@ -3,12 +3,17 @@
 1.hashing:A type of cryptography
                 .it's encryption is not broken
                 .The ability to hash in image,videos,file...
+                
+                
+                
 2.hashing type
    1)MD5:it is used as an extension (.md5)
     2)MD2
     3)MD4
     4)SHA-1
     5)SHA-256
+    
+    
 3.
        hash function|digest length
              MD2        |   128bits
